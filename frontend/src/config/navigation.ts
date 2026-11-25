@@ -140,7 +140,7 @@ export const PRIMARY_NAV: NavEntry[] = [
       { to: '/invoice-dues', label: 'Invoice Dues', icon: AlarmClock, shortcutAction: 'go_invoice_dues' },
       // One page, both directions — the same shape as Invoices, which hosts
       // purchases behind its own voucher toggle.
-      { to: '/credit-notes', label: 'Credit / Debit Notes', title: 'Credit Notes', icon: FileMinus2, shortcutAction: 'go_credit_notes' },
+      { to: '/credit-notes', label: 'Credit / Debit Notes', title: 'Credit / Debit Notes', icon: FileMinus2, shortcutAction: 'go_credit_notes' },
       {
         to: '/cash-bank',
         label: 'Cash & Bank',
